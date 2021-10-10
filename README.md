@@ -32,12 +32,11 @@ The content of the project itself is epic in terms of it's value. So much valuab
 </div>
 
 ### Links
-TODO
 - freeCodeCamp Challenge: [freeCodeCamp | Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 - Sample: [CodePen](https://codepen.io/freeCodeCamp/full/NdrKKL)
 - Solution URL: [GitHub Repo](https://github.com/kolehiyolo/freecodecamp--build_a_technical_documentation_page)
-- Live Site URL (Static): [Kolehiyolo | freeCodeCamp | Build a Technical Documentation Page (Static)]()
-- Live Site URL: [Kolehiyolo | freeCodeCamp | Build a Technical Documentation Page]()
+- Live Site URL (Static): [Kolehiyolo | freeCodeCamp | Build a Technical Documentation Page (Static)](https://kolehiyolo.github.io/freecodecamp--build_a_technical_documentation_page/)
+- Live Site URL: [Kolehiyolo | freeCodeCamp | Build a Technical Documentation Page](https://kolehiyolo.github.io/freecodecamp--build_a_technical_documentation_page/)
 
 ## My process
 ### Built with
