@@ -1,0 +1,34 @@
+@media (max-width:815px) {
+    html {
+        body {
+            .navbar {
+                // * Main
+                width: 100%;
+                height: 280px;
+                border: none;
+                border-bottom: solid 3px var(--color--border);
+
+                // * Positioning
+                position: relative;
+
+                &--header {
+                    text-align: center;
+                }
+
+                &--menu {
+                    overflow-y: auto;
+                    height: 210px;
+
+                    &--link {
+                        padding: 10px 30px;
+                    }
+                }
+            }
+            .main {
+                // * Main
+                margin-left: 0px;
+                padding: 20px;
+            }
+        }
+    }
+}
